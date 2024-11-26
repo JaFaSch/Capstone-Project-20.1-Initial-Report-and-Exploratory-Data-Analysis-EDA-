@@ -61,3 +61,5 @@ To run this project locally:
 1. Clone the repository:
    ```bash
    git clone https://github.com/JaFaSch/house-market-prediction.git
+
+Link to Jupyter Notebook: https://github.com/JaFaSch/Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/Zillow%20house%20price%20prediction.ipynb
