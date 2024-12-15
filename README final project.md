@@ -62,4 +62,4 @@ To run this project locally:
    ```bash
    git clone https://github.com/JaFaSch/house-market-prediction.git
 
-Link to Jupyter Notebook: https://github.com/JaFaSch/Capstone-Project-20.1-Initial-Report-and-Exploratory-Data-Analysis-EDA-/blob/main/Zillow%20house%20price%20prediction.ipynb
+Link to Jupyter Notebook: (https://github.com/JaFaSch/Capstone-Project-Jan-Schreder/blob/main/Zillow%20house%20price%20prediction%20Final%20capstone%20project.ipynb)
